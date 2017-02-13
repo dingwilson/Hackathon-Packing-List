@@ -34,6 +34,7 @@ As an experienced hacker (over 30 hackathons in the past 2 years), I have develo
 - [ ] Pen/Pencil and Paper/Sticky Notes
 - [ ] Extra Cords
 - [ ] Pajamas
+- [ ] Resumes
 
 ## Hygiene
 - [ ] Toothbrush/Toothpaste
