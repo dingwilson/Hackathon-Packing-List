@@ -1,6 +1,6 @@
 # Hackathon Packing List
 
-As an avid hacker who has been to over 30 hackathons in the past 2 years, I have developed a list of things to pack for hackathons, and am sharing this with the world. Feel free to fork it or make pull requests to add your own items.
+As an experienced hacker (over 30 hackathons in the past 2 years), I have developed a list of things to pack for hackathons, and am sharing this with the world. Feel free to fork it or make pull requests to add your own items.
 
 1. [Essentials](#essentials)
 2. [Extras](#extras)
@@ -20,18 +20,20 @@ As an avid hacker who has been to over 30 hackathons in the past 2 years, I have
 - [ ] Earphones/Headphones
 - [ ] Identification (Student ID, Drivers License, etc.)
 - [ ] Dongles/Adapters (Lightning, USB-C, etc.)
-- [ ] Wallet 
+- [ ] Medications
+- [ ] Wallet (Hackathons are usually free, but it doesn't hurt to carry some cash and your ID)
 - [ ] Keys 
 
 ## Extras
 - [ ] Surge Protector
 - [ ] Battery Bank
-- [ ] Sleeping Bag
+- [ ] Sleeping Bag/Blanket/Pillow
 - [ ] Mouse/Mousepad
 - [ ] Keyboard
 - [ ] USB Flashdrives
 - [ ] Pen/Pencil and Paper/Sticky Notes
 - [ ] Extra Cords
+- [ ] Pajamas
 
 ## Hygiene
 - [ ] Toothbrush/Toothpaste
