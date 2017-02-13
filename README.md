@@ -9,7 +9,7 @@ As an avid hacker who has been to over 30 hackathons in the past 2 years, I have
 5. [Hardware](#hardware)
 	- [Basics](#basics)
 	- [Tools](#tools)
-	- [I/O](#i/o)
+	- [I/O](#io)
 6. [ToDos](#todos)
 
 ## Essentials
