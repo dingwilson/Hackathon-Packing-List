@@ -1,6 +1,6 @@
 # Hackathon Packing List
 
-As an experienced hacker (over 30 hackathons in the past 2 years), I have developed a list of things to pack for hackathons, and am sharing this with the world. Feel free to fork it or make pull requests to add your own items.
+As an experienced hacker (over 30 hackathons in the past 2 years), I have developed a list of things to pack for hackathons, and am sharing this with the world. Feel free to fork it or make pull requests to add your own items. To use, simply fork the repository, create an issue for an upcoming hackathon, and the issue will be prepopulated with the list below.
 
 1. [Essentials](#essentials)
 2. [Extras](#extras)
