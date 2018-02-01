@@ -48,7 +48,7 @@ As an experienced hacker (over 30 hackathons in the past 2 years), I have develo
 - [ ] Neck/Hoodie Pillow
 
 ## Hardware
-(Thanks to [Jeff Zhao](https://github.com/jzhao9512) for showing me this [blog post](http://blog.cyrusroshan.com/2016/01/02/a-hardware-hackers-kit) by [CyrusRoshan](https://github.com/CyrusRoshan). I totally copied the hardware list on the blog.)
+(Thanks to [Jeff Zhao](https://github.com/jzhao9512) for showing me this [blog post](https://blog.cyrusroshan.com/post/hardware-hacker-kit/) by [CyrusRoshan](https://github.com/CyrusRoshan). I totally copied the hardware list on the blog.)
 
 ### Basics
 - [ ] Dev Board (Arduino, Raspberry Pi, Edison, Photon, etc.)
